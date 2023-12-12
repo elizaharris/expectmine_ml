@@ -1,0 +1,27 @@
+# Don't forget to import in the python helper script all the classifiers and transformers specified here
+estimators:
+  - name: XGBRegressor
+    steps:
+       - name: XGBRegressor
+         args:
+            n_estimators: [100]
+            objective: [ 'reg:logistic']
+            n_jobs: [ -1 ]
+
+  - name: RandomForestRegressor
+    steps:
+      - name: RandomForestRegressor
+        args:
+          n_estimators: [ 100 ]
+          n_jobs: [ -1 ]
+
+
+
+
+
+
+
+
+
+
+

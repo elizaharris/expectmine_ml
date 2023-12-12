@@ -1,0 +1,7 @@
+,97
+KNeighborsClassifier,"{'massbank_validation_from_structure': {'precision': 0.6237541528239203, 'recall': 0.6067772317772318, 'f1': 0.5982028241335045}, 'validation': {'precision': 0.7073479816044967, 'recall': 0.6895991028875805, 'f1': 0.6953612758922494}}"
+LogisticRegression,"{'massbank_validation_from_structure': {'precision': 0.7100662495399337, 'recall': 0.686977886977887, 'f1': 0.6708110753595118}, 'validation': {'precision': 0.7040699179974105, 'recall': 0.7209279506588169, 'f1': 0.7008047334665357}}"
+MLPClassifier,"{'massbank_validation_from_structure': {'precision': 0.7101215860629706, 'recall': 0.6896601146601147, 'f1': 0.674933532735128}, 'validation': {'precision': 0.7301011029411765, 'recall': 0.7339500981216709, 'f1': 0.7318400815343278}}"
+RandomForestClassifier,"{'massbank_validation_from_structure': {'precision': 0.7127917488494411, 'recall': 0.7120597870597871, 'f1': 0.7092176860330975}, 'validation': {'precision': 0.7318333812742701, 'recall': 0.7410148584244463, 'f1': 0.7351964354334022}}"
+SVC,"{'massbank_validation_from_structure': {'precision': 0.7127917488494411, 'recall': 0.7120597870597871, 'f1': 0.7092176860330975}, 'validation': {'precision': 0.7344193013427487, 'recall': 0.7456966638631903, 'f1': 0.7380918245434375}}"
+XGBClassifier,"{'massbank_validation_from_structure': {'precision': 0.7221451687471105, 'recall': 0.6967649467649468, 'f1': 0.6802926707245893}, 'validation': {'precision': 0.7352459157796678, 'recall': 0.7548640313989347, 'f1': 0.7292734193284823}}"
