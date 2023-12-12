@@ -1,0 +1,15 @@
+beautifulsoup4
+imbalanced_learn
+joblib
+matplotlib
+numpy
+pandas
+plotly
+PyYAML
+Requests
+scikit_learn
+seaborn
+streamlit
+streamlit_plotly_events
+xgboost
+kaleido
